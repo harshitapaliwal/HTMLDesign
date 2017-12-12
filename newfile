@@ -1,1 +1,13 @@
-this one is the new file
+<html>
+    <head>
+        <title>Demo App</title>
+        <link rel="stylesheet" href="assets/css/app.css">
+    </head>
+    <body>
+       <h1>Gayatri</h1>
+
+	
+	<h4>New Conflict file add file </h4>
+
+	   </body>
+</html>
